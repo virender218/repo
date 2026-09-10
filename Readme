@@ -5,3 +5,5 @@ Copy the files in Ubuntu server
   chmod +x *.py
   chmod +x *.sh
   ls -l
+
+Execute install.sh
